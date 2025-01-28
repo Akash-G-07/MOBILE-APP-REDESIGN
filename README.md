@@ -75,3 +75,5 @@ The objective of this project is to analyze the Netflix mobile app's user interf
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/d0996b6a-8f9e-46d6-88ab-98331428a6b0)
+
